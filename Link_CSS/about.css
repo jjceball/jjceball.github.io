@@ -1,0 +1,60 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 30px;
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+  background-image: url('http://i.imgur.com/QHvcwYw.jpg');
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+#first {
+	background: #FFFFFF;
+	color: #000000;
+}
+
+#second {
+	background: #000000;
+	color: #FFFFFF;
+	font-size: 17px;
+}
+
+.jumbotron {
+	width: 100%;
+	margin: 0px 0px 0px 0px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+h1 {
+	color: white;
+}
+
+h2 {
+	text-decoration: underline;
+}
+
+img {
+	float: right; !IMPORTANT
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}

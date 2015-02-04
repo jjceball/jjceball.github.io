@@ -1,0 +1,43 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+  background-image: url('http://i.imgur.com/q9tTMtE.jpg');
+  background-size: 100%;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+#footer {
+	font-size: 16px; !IMPORTANT
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+h2 {
+	text-decoration: underline;
+}
+
+img {
+	float: right; !IMPORTANT
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}

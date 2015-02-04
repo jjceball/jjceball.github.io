@@ -1,0 +1,39 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 30px;
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+  background-image: url(
+  'http://adamkaplanphotography.com/wp-content/uploads/2013/08/Electric-Daisy-Carnival-Vegas-owl-adam-kaplan-1.jpg');
+  background-size: 100%;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+}
+
+.theme-showcase > p > .btn {
+  margin: 3px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+.jumbotron {
+	padding-top: 8px;
+	padding-bottom: 10px;
+	font-size: 16px;
+}
+
+img {
+	float: right; !IMPORTANT
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
