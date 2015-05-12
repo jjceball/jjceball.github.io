@@ -29,8 +29,11 @@ a:hover {
 	text-decoration: none;
 }
 
+h1 {
+}
+
 h2 {
-	text-decoration: underline;
+  font-weight: lighter;
 }
 
 img {
